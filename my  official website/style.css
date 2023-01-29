@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.banner{
+    width: 100%;
+    height: 100vh;
+    background-image: url(file:///C:/Users/Rizwan/Downloads/pngtree-luxury-black-and-golden-metallic-web-banner-vector-design-image_729544.jpg);
+}
+.content{
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    text-align: center;
+    color: #fff;
+    font-family: sans-serif;
+}
+ button{
+    width: 200px;
+    padding: 15px 0;
+    text-align: center;
+    margin: 20px 10px;
+    border-radius: 25px;
+    border: 2px solid gold;
+    background: transparent;
+    color: #fff;
+ }
